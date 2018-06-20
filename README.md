@@ -20,7 +20,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
       or
   	 node app.js
 	```
-Your app should now be running on [localhost:1234](http://localhost:1234/).
+Your app should now be running on [localhost:9876](http://localhost:9876/).
 
 ### Deploying to Heroku
 Make sure you have the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
